@@ -1,5 +1,17 @@
 # 💫 About Me:
-HTML // CSS // JAVASCRIPT // REACT // NODE // REACT-NATIVE // <br>
+💻 BCA (AI & Data Science) Student | Curious Mind | Future Tech Enthusiast
+
+
+
+Hey! I'm Priyansh Heeranandani, a first-year BCA student at Poornima University with a keen interest in Artificial Intelligence, Data Science, and how smart technology is shaping the world.
+
+
+
+I'm currently building a strong foundation in programming, data handling, and AI concepts, while also exploring real-world applications through self-learning, projects, and collaboration. I'm eager to learn, grow, and connect with like-minded people in the tech space.
+
+
+
+Let’s connect and grow together! 🚀 <br>
 
 
 ## 🌐 Socials:
